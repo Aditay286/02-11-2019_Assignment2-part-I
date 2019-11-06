@@ -11,7 +11,7 @@ namespace _02_11_2019_Assignment2
         if(input>=48&&input<=57)
         {
            ans=input-48;
-         Console.WriteLine("For k=1 value is {0}",ans);
+         Console.WriteLine("For position=1 value is {0}",ans);
         }
         else
         {
